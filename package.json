@@ -12,9 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/Hrishi-Angir/console-colorify.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "console log colors",
+    "colorify logs"
+  ],
+  "author": "Hrishikesh A <hrishi.angir.ha@gmial.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Hrishi-Angir/console-colorify/issues"
   },
