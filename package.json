@@ -1,0 +1,28 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "Library to colorigy your console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hrishi-Angir/console-colorify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hrishi-Angir/console-colorify/issues"
+  },
+  "homepage": "https://github.com/Hrishi-Angir/console-colorify#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
